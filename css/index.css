@@ -6,7 +6,7 @@
     padding-bottom: 26.7vw;
 }
 .index-header{
-    background-color: #3580f6;
+    background-color: #ffb3e6ef;
     width: calc(100% - 5.3vw);
     margin: auto;
     border-radius: 2.7vw;
@@ -110,5 +110,5 @@
 
 .is-open {
     background-color: #fff;
-    border: 1px solid #3580f6;
+    border: 1px solid #5c97f0ef;
 }

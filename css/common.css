@@ -37,6 +37,14 @@ body {
     color: #3580f6;
 }
 
+.pink-1 {
+    color: #fdb1e6;
+}
+
+.green-1 {
+    color: #26f753;
+
+}
 /* 按照屏幕宽度 750px 计算 1vw = 7.5px */
 .f-60 {
     font-size: 8vw;
